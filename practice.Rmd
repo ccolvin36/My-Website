@@ -1,0 +1,12 @@
+---
+title: "Research Interests"
+output: html_document
+   
+
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I am currently a member of the Blanchard Lab with a focus on Acidobaceria. We are currently focusing on changes in metagenomic and metatranscriptomic data found in samples of Acidobacteria as a result of soil warming. My current research interests include changes in the soil microbiome as a result of Global Warming along with human genomics. 

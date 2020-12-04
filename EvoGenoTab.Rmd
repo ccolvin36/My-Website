@@ -1,0 +1,12 @@
+---
+title: "EvoGenLab"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+Below is a link to my R projects completed within my Evolutionary Genomics course.
+
+https://ccolvin36.github.io/genomics-course/
